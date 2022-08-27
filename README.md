@@ -135,3 +135,5 @@ The MYSQL_ROOT_PASSWORD on line 232 in the `values.yaml` must match that on line
 
 * The icon and banner uses image from [Flaticon](https://www.flaticon.com/free-icon/bug_190835)
 
+aws_access_key_id = XKIAIOSFODNN7EXAMPLE
+aws_secret_access_key = wJslrXUtnFEMI/K7MDENG/bPxRfiCYEXAMPLEKEY
